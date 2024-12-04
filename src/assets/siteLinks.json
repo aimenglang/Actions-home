@@ -11,7 +11,7 @@
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
+    "name": "设计中",
     "link": "/"
   },
   {
@@ -21,17 +21,12 @@
   },
   {
     "icon": "Book",
-    "name": "网址集",
+    "name": "开发中",
     "link": "/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
+    "name": "实验室",
     "link": "/"
   }
 ]

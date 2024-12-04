@@ -4,7 +4,7 @@
       <Icon size="20">
         <Link />
       </Icon>
-      <span class="title">网站列表</span>
+      <span class="title">项目网站</span>
     </div>
     <!-- 网站列表 -->
     <Swiper
